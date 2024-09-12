@@ -15,7 +15,7 @@ This second, fully updated edition features new chapters on workflow testing, cr
 By the end of this book, you'll be able to use Postman to set up and run API tests for any API that you are working with.
 
 
- 
+
 ## Key Takeaways
 - Find out what is involved in effective API testing
 - Leverage Postman to improve the quality of you API
@@ -25,7 +25,7 @@ By the end of this book, you'll be able to use Postman to set up and run API tes
 - Understand the basic principles of security testing
 - Get to grips with functional and non-functional testing of an API
 - Discover how to use industry standards such as OpenAPI and mocking
- 
+
 
 ## What's New
 This Second Edition of _API Testing and Development with Postman_ is fully-updated throughout, including modernized coverage on authorization options and API monitoring with Postman. The book also includes four brand-new chapters: Workflow Testing, Creating and using a Mock Server in Postman, API Security Testing, and Performance Testing an API.
@@ -39,19 +39,19 @@ APIs are becoming the backbone of the internet. They help companies to communica
 On the surface, this book is primarily about the API testing tool Postman, but I have also tried to weave in examples and teachings that will help you to to use that tool in a way that will have a real impact on quality. If you work through this book, you will gain an in-depth grasp of how Postman works, and you will also have a solid foundation in how to think about API testing in general. I want you to have more than just the ability to manipulate Postman to do what you want it to. I also want you to be able to know when and how to use it so that you can be an effective part of creating high-quality APIs. 
 
 1. API Terminology and Types
-2. [API Documentation and Design](https://github.com/PacktPublishing/API-Testing-and-Development-with-Postman-Second-Edition/tree/main/Chapter02)
-3. [OpenAPI and API Specifications](https://github.com/PacktPublishing/API-Testing-and-Development-with-Postman-Second-Edition/tree/main/Chapter03)
-4. [Considerations for Good API Test Automation](https://github.com/PacktPublishing/API-Testing-and-Development-with-Postman-Second-Edition/tree/main/Chapter04)
+2. [API Documentation and Design](./code/Chapter02)
+3. [OpenAPI and API Specifications](./code/Chapter03)
+4. [Considerations for Good API Test Automation](./code/Chapter04)
 5. Understanding Authorization Options
-6. [Creating Test Validation Scripts](https://github.com/PacktPublishing/API-Testing-and-Development-with-Postman-Second-Edition/tree/main/Chapter06)
-7. [Data-Driven Testing](https://github.com/PacktPublishing/API-Testing-and-Development-with-Postman-Second-Edition/tree/main/Chapter07)
+6. [Creating Test Validation Scripts](./code/Chapter06)
+7. [Data-Driven Testing](./code/Chapter07)
 8. Workflow Testing
-9. [Running API Tests in CI with Newman](https://github.com/PacktPublishing/API-Testing-and-Development-with-Postman-Second-Edition/tree/main/Chapter09)
+9. [Running API Tests in CI with Newman](./code/Chapter09)
 10. Monitoring APIs with Postman
 11. Testing an Existing API
 12. Creating and Using Mock Servers in Postman
-13. [Using Contract Testing to Verify an API](https://github.com/PacktPublishing/API-Testing-and-Development-with-Postman-Second-Edition/tree/main/Chapter13)
-14. [API Security Testing](https://github.com/PacktPublishing/API-Testing-and-Development-with-Postman-Second-Edition/tree/main/Chapter14)
+13. [Using Contract Testing to Verify an API](./code/Chapter13)
+14. [API Security Testing](./code/Chapter14)
 15. Performance Testing an API
 
 
